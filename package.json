@@ -4,7 +4,10 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "npm run start"
+    "start": "npm run start",
+    "build": "npm run build",
+    "test": "npm run test",
+    "eject": "npm run eject"
   },
   "repository": {
     "type": "git",
